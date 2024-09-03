@@ -9,3 +9,18 @@ To set up the project on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/SADOx00/Send-Email-Rapidly--Email-Gonder.git
+2. Run `manage.py` and wait for dependency installation:
+   ```bash
+   python manage.py
+3. Wait until a page opens on the screen.
+
+![Ekran görüntüsü 2024-09-03 144032](https://github.com/user-attachments/assets/a3060af9-0d09-4ac6-97ec-d5cc02dd921e)
+
+4. Fill in the required inputs as follows:
+   - **[Email]**: Enter your email address.
+   - **[Your App Password]**: You can obtain this from [Google Security](https://myaccount.google.com/apppasswords).
+   - **[Target Email]**: Enter the email address of the recipient.
+   - **[Subject]**: Enter the subject of the email.
+   - **[Content]**: Enter the content of the email.
+
+**You can follow me on [Instagram](https://www.instagram.com/sado_x.27/)**
