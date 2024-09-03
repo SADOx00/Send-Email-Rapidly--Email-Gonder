@@ -14,7 +14,7 @@ To set up the project on your local machine, follow these steps:
    python manage.py
 3. Wait until a page opens on the screen.
 
-![Ekran görüntüsü 2024-09-03 145504](https://github.com/user-attachments/assets/92599b04-015a-4891-9cd5-a193987c9c22)
+![Ekran görüntüsü 2024-09-03 145504](https://github.com/user-attachments/assets/98063640-220d-443c-9c72-965ae35dce4c)
 
 
 4. Fill in the required inputs as follows:
