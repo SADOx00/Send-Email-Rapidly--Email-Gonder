@@ -1,7 +1,6 @@
 
 # USAGE
 
- "**USAGE**"
 
 
 ## Installation
