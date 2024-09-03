@@ -28,31 +28,4 @@ To set up the project on your local machine, follow these steps:
 
 
 
-markdown
-Kodu kopyala
-**KULLANIM**
 
-## Kurulum
-
-Projeyi yerel makinenizde kurmak için aşağıdaki adımları izleyin:
-
-1. Repositori'yi klonlayın:
-
-   ```bash
-   git clone https://github.com/SADOx00/Send-Email-Rapidly--Email-Gonder.git
-manage.py dosyasını çalıştırın ve bağımlılıkların yüklenmesini bekleyin:
-
-bash
-Kodu kopyala
-python manage.py
-Ekranda bir sayfanın açılmasını bekleyin.
-
-
-
-Gerekli girişleri aşağıdaki gibi doldurun:
-[Email]: E-posta adresinizi girin.
-[Your App Password]: Bunu Google Security üzerinden alabilirsiniz.
-[Target Email]: Alıcının e-posta adresini girin.
-[Subject]: E-postanın konusunu girin.
-[Content]: E-postanın içeriğini girin.
-Beni Instagram üzerinden takip edebilirsiniz
