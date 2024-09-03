@@ -58,19 +58,19 @@ echo "3. Ekranınızda bir sayfa açılana kadar bekleyin."
 "4. Aşağıdaki gibi gerekli girdileri doldurun:"
 
 "- **[E-posta]**: E-posta adresinizi girin."
-read EMAIL
+
 
  "- **[Uygulama Şifreniz]**: Bunu [Google Güvenlik](https://myaccount.google.com/apppasswords) sitesinde alabilirsiniz."
-read APP_PASSWORD
+
 
 "- **[Hedef E-posta]**: Alıcının e-posta adresini girin."
-read TARGET_EMAIL
+
 
 "- **[Konu]**: E-postanın konusunu girin."
-read SUBJECT
+
 
 "- **[İçerik]**: E-postanın içeriğini girin."
-read CONTENT
+
 
 # Instagram'da takip edin
  "**Instagram'da beni takip edin [Instagram](https://www.instagram.com/sado_x.27/)**"
